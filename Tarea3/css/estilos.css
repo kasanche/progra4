@@ -1,0 +1,70 @@
+header{
+	font-family: 'Verdana';
+}
+
+body{
+	font-family: 'Verdana';
+	
+}
+
+footer{
+	font-family: 'Verdana';
+
+}
+
+img{
+	width: 400px;
+	height: 200px;
+}
+
+table, th, td {
+	border-collapse: collapse;
+   border: 1px solid black;
+}
+
+th, td {
+	padding: 10px;
+}
+
+h1{
+	color: #333;
+	size: 20px;
+}
+
+h2{
+	color: #666;
+	size: 16px;
+}
+
+a{
+	color: blue;
+
+}
+
+p,ul,li{
+	color: #000;
+	size: 12px;
+}
+
+th{
+	background-color: #666;
+	color: white; 
+	size: 12px;
+}
+
+td{
+	background-color: #fff;
+	color: #000;
+	size: 12px;
+}
+
+tfoot{
+	background-color: green;
+	color: #000;
+	size: 12px;
+}
+
+caption{
+	color: #000;
+	size: : 14px;
+}
