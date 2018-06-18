@@ -1,0 +1,8 @@
+1. Agregar a una pagina web un sonido de fondo, el cual se debe reproducir 4 veces, el volumen y 
+balance quedan a su criterio.(Recuerde que esta etiqueta funciona solo en IE).
+
+2. Agregar audio a la misma pagina utilizando las etiquetas audio y source(utilizarlas juntas),
+no debe repetirse el audio y colocar dos tipos de formatos. Puede ser mp3,ogg o wav.
+
+3. Agregar un video utilizando unicamente la etiqueta de video, el tamaño debe ser 600 de ancho 
+y 300 de largo. Incluirle unicamente la barra de controles.
